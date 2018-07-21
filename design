@@ -1,0 +1,42 @@
+*** Command Start ***
+
+/start
+
+Welcome to Random Exercise Bot! 🏃‍
+Did you ever wonder how to make your workouts less boring?? 🤔
+Try new exercises each time! 😉
+
+How can i help you? 😎
+
+/show - shows exercises
+/generate - generates a workout
+
+
+
+** Command Show **
+
+/show
+
+keyboard with buttons of:
+1. squat
+2. Push-ups
+3. ...
+
+when we press a button we get a youtube video that shows us how to do the exercise
+
+** Command Generate **
+
+/generate
+
+keyboard with buttons of:
+1. 15 minutes
+2. 30 minutes
+3. 45 minutes
+
+if chose 15 minutes, generates 3 exercises X3 (10 minutes) + 5 minutes stomach
+if chose 30 minutes, generates 6 exercises X3 (20 minutes) + 10 minutes stomach
+if chose 45 minutes, generates 9 exercises X3 (30 minutes) + 15 minutes stomach
+
+Here is your workout for today! 🏋🏅
+
+Enjoy! 💪

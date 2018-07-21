@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Push-Ups",
+    "type": "CHEST"
+  },
+  {
+    "name": "Squat",
+    "type": "LEG"
+  },
+  {
+    "name": "Bench Dip",
+    "type": "SHOULDERS"
+  },
+  {
+    "name": "Side Shuffle",
+    "type": "LEG"
+  },
+  {
+    "name": "Burpees",
+    "type": "CHEST"
+  },
+  {
+    "name": "Lunges",
+    "type": "LEG"
+  },
+  {
+    "name": "Crunches",
+    "type": "ABS"
+  },
+  {
+    "name": "Arms-High Partial Situp",
+    "type": "ABS"
+  },
+  {
+    "name": "Flutter Kick",
+    "type": "ABS"
+  },
+  {
+    "name": "Leg Raise",
+    "type": "ABS"
+  }
+]
